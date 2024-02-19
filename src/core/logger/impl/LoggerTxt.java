@@ -18,7 +18,7 @@ public class LoggerTxt implements Logger {
 
             writer.write(message);
 
-          //  writer.append('\n');
+            writer.append('\n');
 
             writer.flush();
         }
