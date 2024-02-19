@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="543479a1-c84d-4051-a94e-cca7f862d0ea" name="Changes" comment="" />
+    <list default="true" id="543479a1-c84d-4051-a94e-cca7f862d0ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/calculator/ComlexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/calculator/Compute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/calculator/impl/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/calculator/impl/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/calculator/impl/Subtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/calculator/impl/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/logger/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/logger/impl/LoggerTxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/util/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/view/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,9 +48,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
